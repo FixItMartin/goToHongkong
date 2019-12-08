@@ -5,12 +5,12 @@
 ---
 - 옥토버스 카드
   - 구매
-    'train ticket to the city' or 'Train tickets'
-      50HKD + 최소 충전금액 100HKD = 150HKD
-      홍콩역에 도착하면 먼저 옥토버스 카드부터 구매하자
+    'train ticket to the city' or 'Train tickets'  
+      50HKD + 최소 충전금액 100HKD = 150HKD  
+      홍콩역에 도착하면 먼저 옥토버스 카드부터 구매하자  
 
 
 일정
--------------
+---
 - 간략한 일정
   - 23일 점심때 도착후 호텔에 짐 맏기기 전 점심
