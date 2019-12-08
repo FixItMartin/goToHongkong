@@ -2,7 +2,7 @@
 =============
 
 미리 알아야 할 것
--------------
+---
 - 옥토버스 카드
   - 구매
     'train ticket to the city' or 'Train tickets'
