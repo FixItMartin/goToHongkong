@@ -29,9 +29,10 @@
     식당 이름 : Ding Dim
     위치 : 59 Wyndham St, Central, Hong Kong  
     <a href="https://www.google.com/maps/place/%E9%BC%8E%E9%BB%9E+Ding+Dim+1968/@22.2812819,114.1527044,17z/data=!3m1!4b1!4m5!3m4!1s0x3404007ba30c7d1d:0x52024f1b717847d9!8m2!3d22.2812819!4d114.1548931" title="딤섬집">딤섬집 지도 링크</a>  
-    홍콩 공원 근처에 Tram View Cafe(4.1) 카페로 가서 커피를 사들고 공원 산책을 하다가    
+    ~~홍콩 공원 근처에 Tram View Cafe(4.1) 카페로 가서 커피를 사들고 공원 산책을 하다가    
     지도 : 2 Tramway Path, Mid-Levels, Hong Kong <a href="https://www.google.com/maps/place/Tram+View+Cafe/@22.2771945,114.158378,18.82z/data=!4m8!1m2!2m1!1sCoffee!3m4!1s0x0:0xdd3766c0fb9339f6!8m2!3d22.2767278!4d114.1582804">지도 링크</a>  
     트램을 타려고 했으나 트램 대기줄이 길면 1시간도 기다린다고 해서 버스를 타고 가기로 결정  
     홍콩 공원에서 커피타임을 가진 후 <a href="https://www.google.com/maps/place/Bank+of+China+Tower/@22.2780419,114.1597656,17.56z/data=!4m8!1m2!2m1!1s15+bus+stop!3m4!1s0x3404006680ab28c9:0xe815e7aaaef62657!8m2!3d22.2794773!4d114.1621401!5m1!1e2">Bank of China Tower</a>에 가서 15번 버스를 타고 야경을 구경  
     (버스에서 내려서 20분정도 걸어야 해서 홍콩공원을 생략해도 좋을거 같아요)  
-    (버스를 잡기 위해 계획 수정 가능성 O)
+    (버스를 잡기 위해 계획 수정 가능성 O)~~
+    15번 버스 5번
